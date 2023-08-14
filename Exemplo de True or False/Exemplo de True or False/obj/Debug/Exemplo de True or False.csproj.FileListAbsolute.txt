@@ -1,0 +1,8 @@
+C:\Users\samuel.palbuquerque\source\repos\AulaAlgoritmoTI21\Exemplo de True or False\Exemplo de True or False\bin\Debug\Exemplo de True or False.exe.config
+C:\Users\samuel.palbuquerque\source\repos\AulaAlgoritmoTI21\Exemplo de True or False\Exemplo de True or False\bin\Debug\Exemplo de True or False.exe
+C:\Users\samuel.palbuquerque\source\repos\AulaAlgoritmoTI21\Exemplo de True or False\Exemplo de True or False\bin\Debug\Exemplo de True or False.pdb
+C:\Users\samuel.palbuquerque\source\repos\AulaAlgoritmoTI21\Exemplo de True or False\Exemplo de True or False\obj\Debug\Exemplo de True or False.csproj.AssemblyReference.cache
+C:\Users\samuel.palbuquerque\source\repos\AulaAlgoritmoTI21\Exemplo de True or False\Exemplo de True or False\obj\Debug\Exemplo de True or False.csproj.SuggestedBindingRedirects.cache
+C:\Users\samuel.palbuquerque\source\repos\AulaAlgoritmoTI21\Exemplo de True or False\Exemplo de True or False\obj\Debug\Exemplo de True or False.csproj.CoreCompileInputs.cache
+C:\Users\samuel.palbuquerque\source\repos\AulaAlgoritmoTI21\Exemplo de True or False\Exemplo de True or False\obj\Debug\Exemplo de True or False.exe
+C:\Users\samuel.palbuquerque\source\repos\AulaAlgoritmoTI21\Exemplo de True or False\Exemplo de True or False\obj\Debug\Exemplo de True or False.pdb
