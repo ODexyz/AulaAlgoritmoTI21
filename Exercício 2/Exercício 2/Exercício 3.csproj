@@ -23,7 +23,7 @@ namespace Firma6
 
                Console.WriteLine();
 
-               Console.Write("\n Pressione qualquer chave para terminar... ");
+               Console.Write("\nPressione qualquer chave para terminar... ");
 
 
 
