@@ -4,7 +4,7 @@ using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
 
-namespace Par_ou_Ímpar
+namespace Verificar_Idade
 {
     internal class Program
     {

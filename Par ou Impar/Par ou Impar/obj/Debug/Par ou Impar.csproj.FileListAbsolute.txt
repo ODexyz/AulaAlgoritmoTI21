@@ -1,0 +1,8 @@
+C:\Users\samuel.palbuquerque\source\repos\AulaAlgoritmoTI21\Par ou Impar\Par ou Impar\bin\Debug\Par ou Impar.exe.config
+C:\Users\samuel.palbuquerque\source\repos\AulaAlgoritmoTI21\Par ou Impar\Par ou Impar\bin\Debug\Par ou Impar.exe
+C:\Users\samuel.palbuquerque\source\repos\AulaAlgoritmoTI21\Par ou Impar\Par ou Impar\bin\Debug\Par ou Impar.pdb
+C:\Users\samuel.palbuquerque\source\repos\AulaAlgoritmoTI21\Par ou Impar\Par ou Impar\obj\Debug\Par ou Impar.csproj.AssemblyReference.cache
+C:\Users\samuel.palbuquerque\source\repos\AulaAlgoritmoTI21\Par ou Impar\Par ou Impar\obj\Debug\Par ou Impar.csproj.SuggestedBindingRedirects.cache
+C:\Users\samuel.palbuquerque\source\repos\AulaAlgoritmoTI21\Par ou Impar\Par ou Impar\obj\Debug\Par ou Impar.csproj.CoreCompileInputs.cache
+C:\Users\samuel.palbuquerque\source\repos\AulaAlgoritmoTI21\Par ou Impar\Par ou Impar\obj\Debug\Par ou Impar.exe
+C:\Users\samuel.palbuquerque\source\repos\AulaAlgoritmoTI21\Par ou Impar\Par ou Impar\obj\Debug\Par ou Impar.pdb

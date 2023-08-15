@@ -10,7 +10,22 @@ namespace Par_ou_Ímpar
     {
         static void Main(string[] args)
         {
-            float valor
+            Console.WriteLine("Digite um número: ");
+
+            int num = int.Parse(Console.ReadLine());
+
+            if (num %2 == 0)
+            {
+                Console.WriteLine("PAR");
+            }
+            else
+            {
+                Console.WriteLine("ÍMPAR");
+            }
+
+            Console.WriteLine("/n Pressione qualquer tecla para sair...");
+
+            Console.ReadKey();
 
         }
     }
